@@ -1,4 +1,4 @@
-# Hacker-_Rank
+# Hacker_Rank
 hacker rank solution 
 if __name__ == '__main__':
     name_list=[]
