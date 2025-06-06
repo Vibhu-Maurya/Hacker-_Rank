@@ -1,5 +1,5 @@
 # Hacker_Rank
-<!-- HackerRank is an online platform for practicing coding, preparing for technical interviews, and participating in programming contests. Here's a quick overview:
+HackerRank is an online platform for practicing coding, preparing for technical interviews, and participating in programming contests. Here's a quick overview:
 
 🔹 What Is HackerRank?
 HackerRank is a website where you can solve coding problems in many domains like:
@@ -21,4 +21,4 @@ It’s used by:
 Students and learners to practice coding.
 
 Companies to conduct hiring challenges and online assessments.
- -->
+
